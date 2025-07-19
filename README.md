@@ -9,7 +9,7 @@ Descarga el ZIP, colócalo en tus addons de tu WoW
 Ruta:
 Interface/Addons/
 
-Puedes activarlo desde el menú de interfáz o tecleando /overlord
+Puedes activarlo desde el menú de interfáz
 
 
 > Guild OVERLORD Discord | https://discord.gg/myN4GvuR5t
