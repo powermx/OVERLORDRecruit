@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: OVERLORD |cffff0000-Reclutador-|r
+## Notes: Addon para reclutar en canal Taberna en el servidor Naerzone
+## Author: Atlas
+## Version: 0.0.1
+## SavedVariables: OVERLORDRecruitDB
+OVERLORDRecruit.lua
